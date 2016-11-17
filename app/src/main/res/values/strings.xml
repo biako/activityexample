@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">活动示例</string>
+    <string name="button">按钮</string>
+    <string name="button_1">按钮 1：将至带入Activity2</string>
+    <string name="button_2">按钮 2: 将值返回Activity1</string>
+    <string name="button_3">按钮 3</string>
+</resources>
